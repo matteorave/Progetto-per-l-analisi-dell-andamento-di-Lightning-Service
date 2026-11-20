@@ -1,0 +1,301 @@
+﻿id_operatore,zona,tipo_attivita
+O0001,Milano,Supporto tecnico
+O0002,Roma,Trasporto merci
+O0003,Genova,Trasporto persone
+O0004,Genova,Trasporto persone
+O0005,Bologna,Ritiro e consegna
+O0006,Genova,Configurazione dispositivi
+O0007,Genova,Montaggio e assistenza
+O0008,Milano,Piccole riparazioni
+O0009,Torino,Trasporto persone
+O0010,Firenze,Trasporto merci
+O0011,Genova,Configurazione dispositivi
+O0012,Roma,Ritiro e consegna
+O0013,Torino,Manutenzione ordinaria
+O0014,Roma,Configurazione dispositivi
+O0015,Milano,Piccole riparazioni
+O0016,Roma,Pulizia ordinaria
+O0017,Genova,Supporto tecnico
+O0018,Torino,Supporto domestico
+O0019,Bologna,Manutenzione ordinaria
+O0020,Genova,Supporto tecnico
+O0021,Genova,Ritiro e consegna
+O0022,Bologna,Supporto domestico
+O0023,Milano,Pulizia straordinaria
+O0024,Firenze,Configurazione dispositivi
+O0025,Genova,Pulizia straordinaria
+O0026,Roma,Piccole riparazioni
+O0027,Bologna,Consegna a domicilio
+O0028,Milano,Pulizia straordinaria
+O0029,Genova,Supporto tecnico
+O0030,Torino,Trasporto merci
+O0031,Torino,Configurazione dispositivi
+O0032,Roma,Piccole riparazioni
+O0033,Bologna,Configurazione dispositivi
+O0034,Roma,Consegna a domicilio
+O0035,Torino,Trasporto merci
+O0036,Milano,Supporto tecnico
+O0037,Bologna,Montaggio e assistenza
+O0038,Bologna,Supporto domestico
+O0039,Torino,Pulizia ordinaria
+O0040,Bologna,Manutenzione ordinaria
+O0041,Milano,Consegna a domicilio
+O0042,Bologna,Trasporto merci
+O0043,Roma,Montaggio e assistenza
+O0044,Roma,Supporto tecnico
+O0045,Roma,Trasporto persone
+O0046,Firenze,Trasporto merci
+O0047,Torino,Piccole riparazioni
+O0048,Bologna,Pulizia straordinaria
+O0049,Genova,Pulizia ordinaria
+O0050,Genova,Montaggio e assistenza
+O0051,Bologna,Ritiro e consegna
+O0052,Torino,Pulizia straordinaria
+O0053,Roma,Consegna a domicilio
+O0054,Roma,Supporto domestico
+O0055,Genova,Consegna a domicilio
+O0056,Firenze,Pulizia ordinaria
+O0057,Firenze,Consegna a domicilio
+O0058,Milano,Supporto tecnico
+O0059,Milano,Manutenzione ordinaria
+O0060,Milano,Manutenzione ordinaria
+O0061,Genova,Supporto tecnico
+O0062,Roma,Consegna a domicilio
+O0063,Torino,Pulizia straordinaria
+O0064,Firenze,Pulizia straordinaria
+O0065,Milano,Ritiro e consegna
+O0066,Milano,Ritiro e consegna
+O0067,Torino,Supporto tecnico
+O0068,Bologna,Trasporto merci
+O0069,Firenze,Supporto tecnico
+O0070,Firenze,Trasporto persone
+O0071,Torino,Configurazione dispositivi
+O0072,Roma,Trasporto persone
+O0073,Bologna,Ritiro e consegna
+O0074,Roma,Trasporto persone
+O0075,Roma,Trasporto merci
+O0076,Torino,Ritiro e consegna
+O0077,Milano,Supporto tecnico
+O0078,Genova,Pulizia straordinaria
+O0079,Firenze,Trasporto merci
+O0080,Firenze,Trasporto merci
+O0081,Roma,Consegna a domicilio
+O0082,Roma,Supporto domestico
+O0083,Bologna,Trasporto persone
+O0084,Genova,Trasporto merci
+O0085,Bologna,Trasporto persone
+O0086,Bologna,Piccole riparazioni
+O0087,Genova,Montaggio e assistenza
+O0088,Roma,Pulizia straordinaria
+O0089,Torino,Consegna a domicilio
+O0090,Bologna,Consegna a domicilio
+O0091,Roma,Montaggio e assistenza
+O0092,Firenze,Pulizia ordinaria
+O0093,Firenze,Configurazione dispositivi
+O0094,Torino,Montaggio e assistenza
+O0095,Roma,Piccole riparazioni
+O0096,Torino,Montaggio e assistenza
+O0097,Genova,Configurazione dispositivi
+O0098,Firenze,Consegna a domicilio
+O0099,Roma,Pulizia straordinaria
+O0100,Torino,Pulizia straordinaria
+O0101,Genova,Supporto tecnico
+O0102,Firenze,Manutenzione ordinaria
+O0103,Firenze,Trasporto persone
+O0104,Roma,Configurazione dispositivi
+O0105,Milano,Ritiro e consegna
+O0106,Genova,Montaggio e assistenza
+O0107,Torino,Manutenzione ordinaria
+O0108,Firenze,Pulizia straordinaria
+O0109,Milano,Consegna a domicilio
+O0110,Roma,Consegna a domicilio
+O0111,Bologna,Trasporto merci
+O0112,Milano,Piccole riparazioni
+O0113,Roma,Piccole riparazioni
+O0114,Firenze,Supporto tecnico
+O0115,Milano,Consegna a domicilio
+O0116,Torino,Supporto tecnico
+O0117,Bologna,Piccole riparazioni
+O0118,Firenze,Trasporto merci
+O0119,Genova,Trasporto persone
+O0120,Torino,Configurazione dispositivi
+O0121,Torino,Trasporto merci
+O0122,Roma,Montaggio e assistenza
+O0123,Roma,Configurazione dispositivi
+O0124,Milano,Ritiro e consegna
+O0125,Torino,Supporto tecnico
+O0126,Genova,Pulizia ordinaria
+O0127,Genova,Pulizia straordinaria
+O0128,Torino,Manutenzione ordinaria
+O0129,Roma,Trasporto merci
+O0130,Milano,Pulizia straordinaria
+O0131,Roma,Supporto tecnico
+O0132,Firenze,Configurazione dispositivi
+O0133,Bologna,Consegna a domicilio
+O0134,Torino,Trasporto merci
+O0135,Genova,Ritiro e consegna
+O0136,Bologna,Configurazione dispositivi
+O0137,Torino,Piccole riparazioni
+O0138,Genova,Consegna a domicilio
+O0139,Bologna,Configurazione dispositivi
+O0140,Bologna,Consegna a domicilio
+O0141,Bologna,Pulizia straordinaria
+O0142,Torino,Configurazione dispositivi
+O0143,Roma,Piccole riparazioni
+O0144,Genova,Pulizia ordinaria
+O0145,Firenze,Consegna a domicilio
+O0146,Firenze,Supporto tecnico
+O0147,Genova,Manutenzione ordinaria
+O0148,Torino,Pulizia ordinaria
+O0149,Milano,Manutenzione ordinaria
+O0150,Milano,Supporto tecnico
+O0151,Roma,Pulizia straordinaria
+O0152,Firenze,Trasporto merci
+O0153,Firenze,Montaggio e assistenza
+O0154,Genova,Supporto domestico
+O0155,Torino,Trasporto merci
+O0156,Roma,Trasporto merci
+O0157,Firenze,Manutenzione ordinaria
+O0158,Firenze,Manutenzione ordinaria
+O0159,Bologna,Piccole riparazioni
+O0160,Torino,Ritiro e consegna
+O0161,Torino,Manutenzione ordinaria
+O0162,Firenze,Configurazione dispositivi
+O0163,Firenze,Trasporto persone
+O0164,Firenze,Trasporto persone
+O0165,Firenze,Piccole riparazioni
+O0166,Milano,Supporto tecnico
+O0167,Torino,Trasporto merci
+O0168,Torino,Supporto domestico
+O0169,Milano,Ritiro e consegna
+O0170,Firenze,Trasporto persone
+O0171,Genova,Piccole riparazioni
+O0172,Bologna,Trasporto merci
+O0173,Firenze,Supporto domestico
+O0174,Roma,Montaggio e assistenza
+O0175,Genova,Consegna a domicilio
+O0176,Roma,Configurazione dispositivi
+O0177,Genova,Manutenzione ordinaria
+O0178,Torino,Manutenzione ordinaria
+O0179,Genova,Piccole riparazioni
+O0180,Firenze,Pulizia ordinaria
+O0181,Firenze,Piccole riparazioni
+O0182,Genova,Supporto domestico
+O0183,Roma,Supporto domestico
+O0184,Roma,Montaggio e assistenza
+O0185,Genova,Supporto tecnico
+O0186,Genova,Manutenzione ordinaria
+O0187,Genova,Pulizia straordinaria
+O0188,Milano,Pulizia ordinaria
+O0189,Torino,Pulizia straordinaria
+O0190,Firenze,Consegna a domicilio
+O0191,Genova,Supporto domestico
+O0192,Bologna,Supporto tecnico
+O0193,Milano,Pulizia ordinaria
+O0194,Bologna,Supporto domestico
+O0195,Genova,Trasporto persone
+O0196,Firenze,Trasporto merci
+O0197,Bologna,Supporto domestico
+O0198,Milano,Configurazione dispositivi
+O0199,Milano,Trasporto merci
+O0200,Firenze,Montaggio e assistenza
+O0201,Genova,Trasporto merci
+O0202,Firenze,Configurazione dispositivi
+O0203,Milano,Pulizia ordinaria
+O0204,Torino,Piccole riparazioni
+O0205,Firenze,Manutenzione ordinaria
+O0206,Firenze,Supporto domestico
+O0207,Torino,Manutenzione ordinaria
+O0208,Bologna,Manutenzione ordinaria
+O0209,Torino,Trasporto persone
+O0210,Genova,Trasporto persone
+O0211,Torino,Trasporto merci
+O0212,Genova,Supporto tecnico
+O0213,Torino,Trasporto merci
+O0214,Torino,Pulizia straordinaria
+O0215,Roma,Ritiro e consegna
+O0216,Milano,Pulizia ordinaria
+O0217,Bologna,Manutenzione ordinaria
+O0218,Bologna,Montaggio e assistenza
+O0219,Torino,Supporto tecnico
+O0220,Genova,Consegna a domicilio
+O0221,Firenze,Pulizia straordinaria
+O0222,Genova,Consegna a domicilio
+O0223,Torino,Manutenzione ordinaria
+O0224,Bologna,Pulizia straordinaria
+O0225,Torino,Ritiro e consegna
+O0226,Firenze,Supporto tecnico
+O0227,Firenze,Supporto domestico
+O0228,Milano,Montaggio e assistenza
+O0229,Torino,Trasporto merci
+O0230,Firenze,Pulizia straordinaria
+O0231,Roma,Pulizia ordinaria
+O0232,Genova,Supporto tecnico
+O0233,Firenze,Supporto tecnico
+O0234,Bologna,Trasporto persone
+O0235,Bologna,Montaggio e assistenza
+O0236,Roma,Manutenzione ordinaria
+O0237,Torino,Piccole riparazioni
+O0238,Roma,Pulizia ordinaria
+O0239,Roma,Configurazione dispositivi
+O0240,Torino,Pulizia straordinaria
+O0241,Genova,Supporto tecnico
+O0242,Bologna,Montaggio e assistenza
+O0243,Milano,Supporto domestico
+O0244,Roma,Ritiro e consegna
+O0245,Genova,Consegna a domicilio
+O0246,Milano,Consegna a domicilio
+O0247,Genova,Piccole riparazioni
+O0248,Bologna,Configurazione dispositivi
+O0249,Roma,Consegna a domicilio
+O0250,Genova,Manutenzione ordinaria
+O0251,Genova,Montaggio e assistenza
+O0252,Genova,Ritiro e consegna
+O0253,Roma,Trasporto merci
+O0254,Genova,Trasporto persone
+O0255,Roma,Trasporto merci
+O0256,Firenze,Piccole riparazioni
+O0257,Roma,Ritiro e consegna
+O0258,Bologna,Consegna a domicilio
+O0259,Genova,Configurazione dispositivi
+O0260,Torino,Ritiro e consegna
+O0261,Genova,Montaggio e assistenza
+O0262,Firenze,Trasporto merci
+O0263,Roma,Pulizia straordinaria
+O0264,Bologna,Manutenzione ordinaria
+O0265,Genova,Montaggio e assistenza
+O0266,Roma,Manutenzione ordinaria
+O0267,Roma,Ritiro e consegna
+O0268,Firenze,Manutenzione ordinaria
+O0269,Milano,Ritiro e consegna
+O0270,Milano,Consegna a domicilio
+O0271,Roma,Pulizia straordinaria
+O0272,Bologna,Manutenzione ordinaria
+O0273,Milano,Configurazione dispositivi
+O0274,Genova,Piccole riparazioni
+O0275,Firenze,Consegna a domicilio
+O0276,Genova,Configurazione dispositivi
+O0277,Roma,Piccole riparazioni
+O0278,Torino,Pulizia ordinaria
+O0279,Milano,Montaggio e assistenza
+O0280,Bologna,Supporto tecnico
+O0281,Genova,Piccole riparazioni
+O0282,Firenze,Pulizia straordinaria
+O0283,Bologna,Supporto domestico
+O0284,Milano,Consegna a domicilio
+O0285,Milano,Trasporto merci
+O0286,Roma,Ritiro e consegna
+O0287,Genova,Supporto domestico
+O0288,Firenze,Configurazione dispositivi
+O0289,Milano,Manutenzione ordinaria
+O0290,Firenze,Manutenzione ordinaria
+O0291,Milano,Consegna a domicilio
+O0292,Bologna,Pulizia ordinaria
+O0293,Firenze,Piccole riparazioni
+O0294,Firenze,Trasporto persone
+O0295,Torino,Supporto tecnico
+O0296,Bologna,Piccole riparazioni
+O0297,Bologna,Configurazione dispositivi
+O0298,Torino,Supporto tecnico
+O0299,Roma,Manutenzione ordinaria
+O0300,Bologna,Trasporto merci

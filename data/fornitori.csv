@@ -1,0 +1,301 @@
+﻿id_fornitore,nome,categoria_servizio,zona
+F0001,Fornitore_001,Trasporto,Bologna
+F0002,Fornitore_002,Consegna,Genova
+F0003,Fornitore_003,Manutenzione,Bologna
+F0004,Fornitore_004,Trasporto,Firenze
+F0005,Fornitore_005,Servizi domestici,Roma
+F0006,Fornitore_006,Assistenza informatica,Firenze
+F0007,Fornitore_007,Pulizia,Bologna
+F0008,Fornitore_008,Pulizia,Genova
+F0009,Fornitore_009,Trasporto,Bologna
+F0010,Fornitore_010,Consegna,Bologna
+F0011,Fornitore_011,Manutenzione,Roma
+F0012,Fornitore_012,Servizi domestici,Bologna
+F0013,Fornitore_013,Servizi domestici,Milano
+F0014,Fornitore_014,Trasporto,Milano
+F0015,Fornitore_015,Assistenza informatica,Firenze
+F0016,Fornitore_016,Consegna,Bologna
+F0017,Fornitore_017,Assistenza informatica,Firenze
+F0018,Fornitore_018,Servizi domestici,Torino
+F0019,Fornitore_019,Consegna,Roma
+F0020,Fornitore_020,Trasporto,Milano
+F0021,Fornitore_021,Trasporto,Milano
+F0022,Fornitore_022,Consegna,Genova
+F0023,Fornitore_023,Trasporto,Genova
+F0024,Fornitore_024,Pulizia,Bologna
+F0025,Fornitore_025,Manutenzione,Genova
+F0026,Fornitore_026,Trasporto,Genova
+F0027,Fornitore_027,Trasporto,Genova
+F0028,Fornitore_028,Consegna,Bologna
+F0029,Fornitore_029,Consegna,Roma
+F0030,Fornitore_030,Assistenza informatica,Torino
+F0031,Fornitore_031,Manutenzione,Milano
+F0032,Fornitore_032,Servizi domestici,Torino
+F0033,Fornitore_033,Servizi domestici,Torino
+F0034,Fornitore_034,Consegna,Milano
+F0035,Fornitore_035,Pulizia,Torino
+F0036,Fornitore_036,Assistenza informatica,Milano
+F0037,Fornitore_037,Pulizia,Milano
+F0038,Fornitore_038,Trasporto,Roma
+F0039,Fornitore_039,Consegna,Firenze
+F0040,Fornitore_040,Pulizia,Bologna
+F0041,Fornitore_041,Servizi domestici,Genova
+F0042,Fornitore_042,Manutenzione,Milano
+F0043,Fornitore_043,Assistenza informatica,Firenze
+F0044,Fornitore_044,Servizi domestici,Roma
+F0045,Fornitore_045,Consegna,Milano
+F0046,Fornitore_046,Manutenzione,Torino
+F0047,Fornitore_047,Assistenza informatica,Torino
+F0048,Fornitore_048,Manutenzione,Firenze
+F0049,Fornitore_049,Servizi domestici,Bologna
+F0050,Fornitore_050,Trasporto,Roma
+F0051,Fornitore_051,Pulizia,Torino
+F0052,Fornitore_052,Assistenza informatica,Roma
+F0053,Fornitore_053,Servizi domestici,Milano
+F0054,Fornitore_054,Consegna,Roma
+F0055,Fornitore_055,Manutenzione,Roma
+F0056,Fornitore_056,Assistenza informatica,Torino
+F0057,Fornitore_057,Assistenza informatica,Torino
+F0058,Fornitore_058,Manutenzione,Firenze
+F0059,Fornitore_059,Trasporto,Roma
+F0060,Fornitore_060,Manutenzione,Torino
+F0061,Fornitore_061,Assistenza informatica,Roma
+F0062,Fornitore_062,Manutenzione,Torino
+F0063,Fornitore_063,Trasporto,Bologna
+F0064,Fornitore_064,Consegna,Bologna
+F0065,Fornitore_065,Manutenzione,Roma
+F0066,Fornitore_066,Trasporto,Roma
+F0067,Fornitore_067,Pulizia,Bologna
+F0068,Fornitore_068,Pulizia,Roma
+F0069,Fornitore_069,Assistenza informatica,Roma
+F0070,Fornitore_070,Manutenzione,Firenze
+F0071,Fornitore_071,Assistenza informatica,Bologna
+F0072,Fornitore_072,Trasporto,Bologna
+F0073,Fornitore_073,Servizi domestici,Firenze
+F0074,Fornitore_074,Manutenzione,Genova
+F0075,Fornitore_075,Pulizia,Torino
+F0076,Fornitore_076,Manutenzione,Bologna
+F0077,Fornitore_077,Pulizia,Bologna
+F0078,Fornitore_078,Assistenza informatica,Firenze
+F0079,Fornitore_079,Servizi domestici,Bologna
+F0080,Fornitore_080,Manutenzione,Torino
+F0081,Fornitore_081,Trasporto,Genova
+F0082,Fornitore_082,Pulizia,Bologna
+F0083,Fornitore_083,Pulizia,Genova
+F0084,Fornitore_084,Manutenzione,Genova
+F0085,Fornitore_085,Manutenzione,Firenze
+F0086,Fornitore_086,Servizi domestici,Genova
+F0087,Fornitore_087,Assistenza informatica,Torino
+F0088,Fornitore_088,Assistenza informatica,Milano
+F0089,Fornitore_089,Consegna,Milano
+F0090,Fornitore_090,Servizi domestici,Bologna
+F0091,Fornitore_091,Trasporto,Firenze
+F0092,Fornitore_092,Pulizia,Roma
+F0093,Fornitore_093,Trasporto,Roma
+F0094,Fornitore_094,Servizi domestici,Bologna
+F0095,Fornitore_095,Trasporto,Torino
+F0096,Fornitore_096,Consegna,Genova
+F0097,Fornitore_097,Pulizia,Bologna
+F0098,Fornitore_098,Servizi domestici,Milano
+F0099,Fornitore_099,Manutenzione,Roma
+F0100,Fornitore_100,Assistenza informatica,Genova
+F0101,Fornitore_101,Trasporto,Firenze
+F0102,Fornitore_102,Assistenza informatica,Genova
+F0103,Fornitore_103,Trasporto,Roma
+F0104,Fornitore_104,Assistenza informatica,Genova
+F0105,Fornitore_105,Manutenzione,Roma
+F0106,Fornitore_106,Trasporto,Genova
+F0107,Fornitore_107,Manutenzione,Genova
+F0108,Fornitore_108,Pulizia,Torino
+F0109,Fornitore_109,Servizi domestici,Milano
+F0110,Fornitore_110,Manutenzione,Torino
+F0111,Fornitore_111,Servizi domestici,Firenze
+F0112,Fornitore_112,Servizi domestici,Milano
+F0113,Fornitore_113,Pulizia,Milano
+F0114,Fornitore_114,Servizi domestici,Bologna
+F0115,Fornitore_115,Manutenzione,Roma
+F0116,Fornitore_116,Assistenza informatica,Firenze
+F0117,Fornitore_117,Assistenza informatica,Genova
+F0118,Fornitore_118,Consegna,Milano
+F0119,Fornitore_119,Manutenzione,Milano
+F0120,Fornitore_120,Manutenzione,Milano
+F0121,Fornitore_121,Manutenzione,Torino
+F0122,Fornitore_122,Servizi domestici,Firenze
+F0123,Fornitore_123,Pulizia,Genova
+F0124,Fornitore_124,Consegna,Torino
+F0125,Fornitore_125,Assistenza informatica,Genova
+F0126,Fornitore_126,Servizi domestici,Milano
+F0127,Fornitore_127,Servizi domestici,Bologna
+F0128,Fornitore_128,Consegna,Torino
+F0129,Fornitore_129,Assistenza informatica,Genova
+F0130,Fornitore_130,Trasporto,Bologna
+F0131,Fornitore_131,Trasporto,Genova
+F0132,Fornitore_132,Pulizia,Torino
+F0133,Fornitore_133,Manutenzione,Bologna
+F0134,Fornitore_134,Consegna,Torino
+F0135,Fornitore_135,Trasporto,Bologna
+F0136,Fornitore_136,Consegna,Firenze
+F0137,Fornitore_137,Servizi domestici,Roma
+F0138,Fornitore_138,Consegna,Milano
+F0139,Fornitore_139,Pulizia,Firenze
+F0140,Fornitore_140,Manutenzione,Torino
+F0141,Fornitore_141,Pulizia,Torino
+F0142,Fornitore_142,Assistenza informatica,Bologna
+F0143,Fornitore_143,Assistenza informatica,Firenze
+F0144,Fornitore_144,Assistenza informatica,Milano
+F0145,Fornitore_145,Assistenza informatica,Bologna
+F0146,Fornitore_146,Trasporto,Bologna
+F0147,Fornitore_147,Manutenzione,Firenze
+F0148,Fornitore_148,Trasporto,Genova
+F0149,Fornitore_149,Assistenza informatica,Firenze
+F0150,Fornitore_150,Consegna,Firenze
+F0151,Fornitore_151,Servizi domestici,Torino
+F0152,Fornitore_152,Pulizia,Roma
+F0153,Fornitore_153,Pulizia,Genova
+F0154,Fornitore_154,Servizi domestici,Torino
+F0155,Fornitore_155,Pulizia,Milano
+F0156,Fornitore_156,Pulizia,Firenze
+F0157,Fornitore_157,Consegna,Milano
+F0158,Fornitore_158,Consegna,Bologna
+F0159,Fornitore_159,Trasporto,Roma
+F0160,Fornitore_160,Assistenza informatica,Bologna
+F0161,Fornitore_161,Manutenzione,Torino
+F0162,Fornitore_162,Pulizia,Genova
+F0163,Fornitore_163,Servizi domestici,Genova
+F0164,Fornitore_164,Servizi domestici,Bologna
+F0165,Fornitore_165,Consegna,Roma
+F0166,Fornitore_166,Pulizia,Genova
+F0167,Fornitore_167,Servizi domestici,Firenze
+F0168,Fornitore_168,Servizi domestici,Milano
+F0169,Fornitore_169,Trasporto,Torino
+F0170,Fornitore_170,Assistenza informatica,Milano
+F0171,Fornitore_171,Servizi domestici,Milano
+F0172,Fornitore_172,Manutenzione,Milano
+F0173,Fornitore_173,Consegna,Torino
+F0174,Fornitore_174,Pulizia,Genova
+F0175,Fornitore_175,Assistenza informatica,Roma
+F0176,Fornitore_176,Assistenza informatica,Genova
+F0177,Fornitore_177,Trasporto,Torino
+F0178,Fornitore_178,Trasporto,Roma
+F0179,Fornitore_179,Manutenzione,Roma
+F0180,Fornitore_180,Trasporto,Genova
+F0181,Fornitore_181,Assistenza informatica,Firenze
+F0182,Fornitore_182,Trasporto,Bologna
+F0183,Fornitore_183,Consegna,Firenze
+F0184,Fornitore_184,Consegna,Bologna
+F0185,Fornitore_185,Servizi domestici,Genova
+F0186,Fornitore_186,Assistenza informatica,Genova
+F0187,Fornitore_187,Consegna,Torino
+F0188,Fornitore_188,Pulizia,Roma
+F0189,Fornitore_189,Assistenza informatica,Firenze
+F0190,Fornitore_190,Consegna,Roma
+F0191,Fornitore_191,Manutenzione,Firenze
+F0192,Fornitore_192,Consegna,Milano
+F0193,Fornitore_193,Trasporto,Firenze
+F0194,Fornitore_194,Servizi domestici,Bologna
+F0195,Fornitore_195,Manutenzione,Milano
+F0196,Fornitore_196,Assistenza informatica,Bologna
+F0197,Fornitore_197,Servizi domestici,Bologna
+F0198,Fornitore_198,Consegna,Bologna
+F0199,Fornitore_199,Manutenzione,Bologna
+F0200,Fornitore_200,Manutenzione,Genova
+F0201,Fornitore_201,Servizi domestici,Torino
+F0202,Fornitore_202,Pulizia,Genova
+F0203,Fornitore_203,Trasporto,Roma
+F0204,Fornitore_204,Trasporto,Genova
+F0205,Fornitore_205,Servizi domestici,Bologna
+F0206,Fornitore_206,Assistenza informatica,Torino
+F0207,Fornitore_207,Trasporto,Torino
+F0208,Fornitore_208,Manutenzione,Genova
+F0209,Fornitore_209,Manutenzione,Torino
+F0210,Fornitore_210,Trasporto,Firenze
+F0211,Fornitore_211,Consegna,Roma
+F0212,Fornitore_212,Assistenza informatica,Bologna
+F0213,Fornitore_213,Trasporto,Torino
+F0214,Fornitore_214,Pulizia,Firenze
+F0215,Fornitore_215,Manutenzione,Firenze
+F0216,Fornitore_216,Trasporto,Roma
+F0217,Fornitore_217,Trasporto,Torino
+F0218,Fornitore_218,Pulizia,Genova
+F0219,Fornitore_219,Assistenza informatica,Milano
+F0220,Fornitore_220,Manutenzione,Bologna
+F0221,Fornitore_221,Servizi domestici,Bologna
+F0222,Fornitore_222,Consegna,Torino
+F0223,Fornitore_223,Servizi domestici,Firenze
+F0224,Fornitore_224,Pulizia,Roma
+F0225,Fornitore_225,Pulizia,Genova
+F0226,Fornitore_226,Assistenza informatica,Torino
+F0227,Fornitore_227,Assistenza informatica,Bologna
+F0228,Fornitore_228,Consegna,Milano
+F0229,Fornitore_229,Consegna,Bologna
+F0230,Fornitore_230,Consegna,Roma
+F0231,Fornitore_231,Pulizia,Bologna
+F0232,Fornitore_232,Servizi domestici,Genova
+F0233,Fornitore_233,Assistenza informatica,Roma
+F0234,Fornitore_234,Manutenzione,Bologna
+F0235,Fornitore_235,Trasporto,Bologna
+F0236,Fornitore_236,Pulizia,Bologna
+F0237,Fornitore_237,Assistenza informatica,Milano
+F0238,Fornitore_238,Trasporto,Milano
+F0239,Fornitore_239,Assistenza informatica,Firenze
+F0240,Fornitore_240,Servizi domestici,Milano
+F0241,Fornitore_241,Consegna,Genova
+F0242,Fornitore_242,Trasporto,Genova
+F0243,Fornitore_243,Assistenza informatica,Genova
+F0244,Fornitore_244,Consegna,Genova
+F0245,Fornitore_245,Servizi domestici,Genova
+F0246,Fornitore_246,Assistenza informatica,Firenze
+F0247,Fornitore_247,Servizi domestici,Bologna
+F0248,Fornitore_248,Pulizia,Bologna
+F0249,Fornitore_249,Assistenza informatica,Bologna
+F0250,Fornitore_250,Manutenzione,Genova
+F0251,Fornitore_251,Assistenza informatica,Firenze
+F0252,Fornitore_252,Trasporto,Bologna
+F0253,Fornitore_253,Manutenzione,Milano
+F0254,Fornitore_254,Servizi domestici,Milano
+F0255,Fornitore_255,Assistenza informatica,Bologna
+F0256,Fornitore_256,Pulizia,Bologna
+F0257,Fornitore_257,Consegna,Genova
+F0258,Fornitore_258,Servizi domestici,Bologna
+F0259,Fornitore_259,Servizi domestici,Bologna
+F0260,Fornitore_260,Trasporto,Roma
+F0261,Fornitore_261,Servizi domestici,Milano
+F0262,Fornitore_262,Trasporto,Torino
+F0263,Fornitore_263,Pulizia,Firenze
+F0264,Fornitore_264,Assistenza informatica,Genova
+F0265,Fornitore_265,Consegna,Bologna
+F0266,Fornitore_266,Consegna,Firenze
+F0267,Fornitore_267,Trasporto,Torino
+F0268,Fornitore_268,Servizi domestici,Milano
+F0269,Fornitore_269,Trasporto,Roma
+F0270,Fornitore_270,Pulizia,Torino
+F0271,Fornitore_271,Trasporto,Genova
+F0272,Fornitore_272,Manutenzione,Firenze
+F0273,Fornitore_273,Servizi domestici,Bologna
+F0274,Fornitore_274,Servizi domestici,Torino
+F0275,Fornitore_275,Manutenzione,Roma
+F0276,Fornitore_276,Assistenza informatica,Bologna
+F0277,Fornitore_277,Manutenzione,Roma
+F0278,Fornitore_278,Servizi domestici,Bologna
+F0279,Fornitore_279,Assistenza informatica,Torino
+F0280,Fornitore_280,Assistenza informatica,Torino
+F0281,Fornitore_281,Pulizia,Roma
+F0282,Fornitore_282,Servizi domestici,Genova
+F0283,Fornitore_283,Pulizia,Roma
+F0284,Fornitore_284,Consegna,Bologna
+F0285,Fornitore_285,Consegna,Roma
+F0286,Fornitore_286,Servizi domestici,Torino
+F0287,Fornitore_287,Trasporto,Milano
+F0288,Fornitore_288,Servizi domestici,Genova
+F0289,Fornitore_289,Consegna,Torino
+F0290,Fornitore_290,Manutenzione,Torino
+F0291,Fornitore_291,Manutenzione,Genova
+F0292,Fornitore_292,Manutenzione,Bologna
+F0293,Fornitore_293,Pulizia,Milano
+F0294,Fornitore_294,Assistenza informatica,Bologna
+F0295,Fornitore_295,Assistenza informatica,Roma
+F0296,Fornitore_296,Pulizia,Milano
+F0297,Fornitore_297,Pulizia,Torino
+F0298,Fornitore_298,Assistenza informatica,Bologna
+F0299,Fornitore_299,Assistenza informatica,Roma
+F0300,Fornitore_300,Pulizia,Bologna
