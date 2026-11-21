@@ -28,20 +28,3 @@ WHERE r.stato_richiesta = 'Completata'
 GROUP BY f.id_fornitore, f.nome
 ORDER BY incasso_totale DESC
 LIMIT 5;
-
-
--- 7. Percentuale clienti ricorrenti
-SELECT
-    ROUND(
-        100.0 *
-        SUM(CASE WHEN numero_richieste > 1 THEN 1 ELSE 0 END)
-        / COUNT(*),
-        2
-    ) AS percentuale_clienti_ricorrenti
-FROM (
-    SELECT
-        id_cliente,
-        COUNT(*) AS numero_richieste
-    FROM fact_richieste
-    GROUP BY id_cliente
-);
