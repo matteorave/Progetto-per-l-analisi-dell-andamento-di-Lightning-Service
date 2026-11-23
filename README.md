@@ -6,6 +6,16 @@ Il progetto simula un piccolo sistema di analisi dei dati relativo a una startup
 
 I dati utilizzati sono sintetici e hanno esclusivamente lo scopo di simulare il funzionamento del sistema.
 
+# Compatibilità della guida di installazione
+
+La presente guida di installazione e avvio è stata preparata per Windows e utilizza comandi compatibili con PowerShell.
+
+Il progetto è stato sviluppato e testato in ambiente Windows, quindi i percorsi e i comandi riportati nelle sezioni successive fanno riferimento a questa piattaforma, in particolare per quanto riguarda la creazione e l’utilizzo dell’ambiente virtuale .venv.
+
+Il codice Python, il database SQLite e la dashboard Streamlit possono essere utilizzati anche su altri sistemi operativi, ma in quel caso alcuni comandi relativi all’attivazione dell’ambiente virtuale e ai percorsi dei file potrebbero essere differenti.
+
+Per seguire esattamente i passaggi descritti in questo README è quindi consigliato utilizzare Windows con PowerShell.
+
 ## Avvio della dashboard
 
 I comandi devono essere eseguiti dalla cartella principale del progetto tramite PowerShell.
