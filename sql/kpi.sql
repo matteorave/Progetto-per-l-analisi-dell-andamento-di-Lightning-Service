@@ -17,7 +17,7 @@ WHERE stato_richiesta = 'Completata';
 SELECT COUNT(DISTINCT id_cliente) AS clienti_attivi
 FROM fact_richieste;
 
--- 6. Top 5 fornitori per incasso
+-- 5. Top 5 fornitori per incasso
 SELECT
     f.nome,
     SUM(r.importo) AS incasso_totale
